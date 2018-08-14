@@ -1,5 +1,7 @@
 // The ldbdump program dumps the contents of LevelDB tables (.ldb files),
 // formerly known as sorted string tables (.sst files).
+
+// So dump sst is call by this command???
 package main
 
 import (
